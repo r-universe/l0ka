@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "TPES"]
 	path = TPES
 	url = https://github.com/cran/TPES
-	shallow = true
-	registered = true
